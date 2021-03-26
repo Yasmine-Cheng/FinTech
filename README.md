@@ -1,6 +1,6 @@
 # FinTech
 > 巨資大二下_雲端運算服務(跨校金融科技)
-## 課堂
+## :writing_hand:課堂
 ### Homework1
 > [What do I think of Cloud Computing?](https://github.com/Yasmine-Cheng/FinTech/blob/main/HW1/README.md)
 ### Homework2
@@ -14,7 +14,7 @@
 ### Homework6
 > []()
 ---
-## 專案
+## :clipboard:專案
 * 題目名稱：運用機器學習於業務員風險偵測 (南山人壽題目二)
 * 題目說明：為避免業務員可能之不當行為情事，除現行法令規範必電訪之條件外，針對新契約保單﹑涉及危險評估之契變非親辦件，亦會進行抽樣電訪，以確認保戶知悉保單情況;另同業多採線性模型或決策樹預測的方式，以推測高風險之業務員。
   1. 業務員不當行為之發生，公司可能遭受監管機關裁罰並蒙受商譽損害，且影響保護的信賴度
