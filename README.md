@@ -13,7 +13,7 @@ FinTech
 > #### Homework2
 > :heavy_check_mark:[Build a Website using Amazon EC2 with LAMP](https://youtu.be/nc-AM8binXY)
 > #### Homework3
-> [Build a Website using Amazon S3(Versioning) and AWS Amplify](https://youtu.be/ctx9DNOwb78)
+> :heavy_check_mark:[Build a Website using Amazon S3(Versioning) and AWS Amplify](https://youtu.be/ctx9DNOwb78)
 > #### Homework4
 > [Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda]()
 > #### Homework5
