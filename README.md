@@ -9,17 +9,17 @@ FinTech
 課程內容包括財金專業知識、文字探勘與機器學習，以及使用程式語言（如Python）來實做由金融實務界提出的專題題目。
 ### :writing_hand:作業：
 > #### Homework1
-> - :heavy_check_mark:[What do I think of Cloud Computing?](https://github.com/Yasmine-Cheng/FinTech/blob/main/HW1/README.md)
+> :heavy_check_mark:[What do I think of Cloud Computing?](https://github.com/Yasmine-Cheng/FinTech/blob/main/HW1/README.md)
 > #### Homework2
-> - :heavy_check_mark:[Build a Website using Amazon EC2 with LAMP](https://youtu.be/nc-AM8binXY)
+> :heavy_check_mark:[Build a Website using Amazon EC2 with LAMP](https://youtu.be/nc-AM8binXY)
 > #### Homework3
-> - [Build a Website using Amazon S3(Versioning) and AWS Amplify]()
+> [Build a Website using Amazon S3(Versioning) and AWS Amplify]()
 > #### Homework4
-> - [Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda]()
+> [Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda]()
 > #### Homework5
-> - [Create a Database using Amazon RDS or Amazon DynamoDB]()
+> [Create a Database using Amazon RDS or Amazon DynamoDB]()
 > #### Homework6
-> - [Create a Docker Container or Build your own Project Services]()
+> [Create a Docker Container or Build your own Project Services]()
 
 ---
 
