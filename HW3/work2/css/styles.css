@@ -1,0 +1,245 @@
+*{
+	box-sizing: border-box;
+}
+body{
+	font-family: "微軟正黑體","Lucida",sans-serif;
+	width: 100%;
+}
+.header1{
+	height: 150px;
+}
+.header2{
+	height:100px;
+	margin-top: -32px;
+	padding-top: 8px;
+	padding-left: 30px;
+	background: #FF5364;
+}
+.fakeheader2{
+	height:100px;
+	margin-top: 0px;
+	padding-top: 8px;
+	padding-left: 30px;
+	background: #FF5364;
+}
+.left1{
+	width: 155px;
+}
+.myicon1{
+	width: 150px;
+	margin-top: -12px;
+}
+.myicon2{
+	width: 150px;
+	margin-top: -50px;
+}
+.myicon3{
+	width: 120px;
+	margin-top: -12px;
+}
+.bounce1{
+	width: 70px;
+	padding-top: 17px;
+}
+
+.bounce2{
+	width: 70px;
+	padding-top: 17px;
+}
+.bounce3{
+	width: 70px;
+	padding-top: 17px;
+}
+.bounce4{
+	width: 70px;
+	padding-top: 17px;
+}
+@keyframes bounce1{
+	from{transform:translateY(0px)}to{transform:translateY(-8px)}
+}
+@-webkit-keyframes bounce1{
+	from{transform:translateY(0px)}to{transform:translateY(-8px)}
+}
+.bounce1{
+	animation: bounce1 1s infinite alternate;
+	-webkit-animation: bounce1 1s infinite alternate;
+	animation-delay:0s;
+}
+@keyframes bounce2{
+	from{transform:translateY(0px)}to{transform:translateY(-8px)}
+}
+@-webkit-keyframes bounce2{
+	from{transform:translateY(0px)}to{transform:translateY(-8px)}
+}
+.bounce2{
+	animation: bounce2 1s infinite alternate;
+	-webkit-animation: bounce2 1s infinite alternate;
+	animation-delay:0.3s;
+}
+@keyframes bounce3{
+	from{transform:translateY(0px)}to{transform:translateY(-8px)}
+}
+@-webkit-keyframes bounce3{
+	from{transform:translateY(0px)}to{transform:translateY(-8px)}
+}
+.bounce3{
+	animation: bounce3 1s infinite alternate;
+	-webkit-animation: bounce3 1s infinite alternate;
+	animation-delay:0.6s;
+}
+@keyframes bounce4{
+	from{transform:translateY(0px)}to{transform:translateY(-8px)}
+}
+@-webkit-keyframes bounce4{
+	from{transform:translateY(0px)}to{transform:translateY(-8px)}
+}
+.bounce4{
+	animation: bounce4 1s infinite alternate;
+	-webkit-animation: bounce4 1s infinite alternate;
+	animation-delay:0.9s;
+}
+.maincontent{
+	margin-top: 300px;
+	width: 95%;
+}
+[class*="col-"] {
+	float: left;
+	padding: 15px;
+}
+@media only screen and (max-width: 600px){
+	.carousel-caption h2{
+		font-size: 18px;
+	}
+}
+@media only screen and (min-width: 768px) {
+
+}
+@media only screen and (max-width: 992px) {
+	.myicon{
+		display: none;
+	}
+	.message input{
+		width: 80%;
+	}
+	.message input[type='button']{
+		width: 40%;
+	}
+	.message textarea{
+		width: 80%;
+	}
+}
+.leftpanel{
+	background-color: #F4F6F7;
+}
+.selfintroduction{
+	float: initial;
+	text-align: center;
+}
+.nicetomeetu{
+	
+}
+.nicetomeetu h5{
+	font-size: 28px;
+}
+.selfintroduction img{
+	border-radius: 50%;
+}
+.englishone{
+	font-family: monospace;
+	font-size: 16px;
+	letter-spacing: 4px;
+	/*text-align: center;*/
+}
+.chineseone{
+	letter-spacing: 3px;
+	text-align:justify;　
+}
+input[type=button][name=button1]{
+	border:3px 	#9D9D9D dashed;
+	background-color:white;
+	color: black;
+	font-family: Comic Sans MS;
+	outline: none;
+}
+input[type=button][name=button1]:hover{
+	border:3px 	#9D9D9D dashed;
+	background-color:#4F4F4F;
+	color: white;
+	font-family: Comic Sans MS;
+	outline: none;
+}
+.sort{
+	float: initial;
+	text-align: center;
+}
+.category h5{
+	font-size: 28px;
+}
+.dropdown-item:hover{
+	background: #343A40;
+	color: white;
+}
+.message h5{
+	font-size: 28px;
+}
+.footer1{
+	height: 150px;
+}
+.message input[type=button]{
+	border:3px 	#9D9D9D dashed;
+	background-color:white;
+	color: black;
+	font-family: Comic Sans MS;
+	outline: none;
+}
+.message input[type=button]:hover{
+	border:3px 	#9D9D9D dashed;
+	background-color:#4F4F4F;
+	color: white;
+	font-family: Comic Sans MS;
+	outline: none;
+}
+.rowrow1 h1{
+	font-weight:bold;
+	font-family: serif;
+	color: black;
+}
+.rowrow h1{
+	margin-top: 100px;
+	font-weight: bold;
+	color: black;
+	font-family: serif;
+}
+.someinfo pre{
+	text-align: center;
+	font-family: 微軟正黑體;
+	font-size: 18px;
+}
+.ending{
+	text-align: center;
+	font-size: 10px;
+	color: lightgray;
+}
+#gotop{
+	position: fixed;
+	z-index: 99;
+	display: none;
+	right: 30px;
+	bottom: 30px;
+	width: 50px;
+	height: 50px;
+	color: white;
+	background: #FF5364;
+	line-height: 50px;
+	border-radius: 50%;
+	transition: all 0.5s;
+	text-align: center;
+	box-shadow: 0 2px 5px rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
+}
+#gotop:hover{
+	background-color: #eb4b5b;
+	text-decoration: none;
+}
+.rowrow1 a{
+	text-decoration: none;
+}
