@@ -1,4 +1,6 @@
 ### 作業要求：
 運用無伺服器框架串接Tlegram Chatbot，並且成功執行DEMO文件，達到鸚鵡機器人的效果。
 
-作業連結：
+作業連結：[https://youtu.be/GVvfx7SKfO8](https://youtu.be/GVvfx7SKfO8)
+
+筆記連結：
