@@ -3,4 +3,4 @@
 
 作業連結：[https://youtu.be/GVvfx7SKfO8](https://youtu.be/GVvfx7SKfO8)
 
-筆記連結：
+筆記連結：[https://www.notion.so/yaszheng/HW4-2de81eca8a824aa2859bc03cef834701](https://www.notion.so/yaszheng/HW4-2de81eca8a824aa2859bc03cef834701)
