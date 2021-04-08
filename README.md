@@ -15,7 +15,7 @@ FinTech
 > #### Homework3
 > :heavy_check_mark:[Build a Website using Amazon S3(Versioning) and AWS Amplify](https://youtu.be/ctx9DNOwb78)
 > #### Homework4
-> [Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda]()
+> :heavy_check_mark:[Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda](https://youtu.be/GVvfx7SKfO8)
 > #### Homework5
 > [Create a Database using Amazon RDS or Amazon DynamoDB]()
 > #### Homework6
