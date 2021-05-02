@@ -17,7 +17,7 @@ FinTech
 > #### Homework4
 > :heavy_check_mark:[Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda](https://youtu.be/GVvfx7SKfO8)
 > #### Homework5
-> [Create a Database using Amazon RDS or Amazon DynamoDB]()
+> :heavy_check_mark:[Create a Database using Amazon RDS or Amazon DynamoDB](https://www.youtube.com/watch?v=Wnjs2NV80ts)
 > #### Homework6
 > [Create a Docker Container or Build your own Project Services]()
 
