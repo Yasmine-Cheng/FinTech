@@ -47,6 +47,6 @@ FinTech
 > - 東吳大學 巨資系 [**詹博揚**]()
 ### :clap:作品：
 > - 階段性結果產出紀錄：[]()
-> - 投影片：[]()
+> - 投影片：[https://docs.google.com/presentation/d/1K3wcchma_U4EUbxDmfiCmaRz9zkfAEVZ/edit#slide=id.p16](https://docs.google.com/presentation/d/1K3wcchma_U4EUbxDmfiCmaRz9zkfAEVZ/edit#slide=id.p16)
 > - 展示影片：[]()
 > - 實際操作：[]()
