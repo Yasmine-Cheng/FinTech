@@ -48,5 +48,5 @@ FinTech
 ### :clap:作品：
 > - 階段性結果產出紀錄：[]()
 > - 投影片：[https://docs.google.com/presentation/d/1K3wcchma_U4EUbxDmfiCmaRz9zkfAEVZ/edit#slide=id.p1](https://docs.google.com/presentation/d/1K3wcchma_U4EUbxDmfiCmaRz9zkfAEVZ/edit#slide=id.p1)
-> - 展示影片：[]()
+> - 展示影片：[https://youtu.be/HbDAs5vJdew](https://youtu.be/HbDAs5vJdew)
 > - 實際操作：[]()
