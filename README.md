@@ -46,7 +46,9 @@ FinTech
 > - 東吳大學 巨資系 [**潘竑叡**]()
 > - 東吳大學 巨資系 [**詹博揚**]()
 ### :clap:作品：
-> - 階段性結果產出紀錄：[]()
-> - 投影片：[https://docs.google.com/presentation/d/1K3wcchma_U4EUbxDmfiCmaRz9zkfAEVZ/edit#slide=id.p1](https://docs.google.com/presentation/d/1K3wcchma_U4EUbxDmfiCmaRz9zkfAEVZ/edit#slide=id.p1)
-> - 展示影片：[https://youtu.be/HbDAs5vJdew](https://youtu.be/HbDAs5vJdew)
-> - 實際操作：[]()
+- 投影片：
+    - [Intro_Ver_PDF](https://github.com/Yasmine-Cheng/FinTech/blob/main/Project/NanShan_FraudML_Intro_Version.pdf)
+    - [Full_Ver_PDF](https://github.com/Yasmine-Cheng/FinTech/blob/main/Project/NanShan_FraudML_Full_Version.pdf)
+- 展示影片：
+    - [Intro_Ver_Video](https://www.youtube.com/watch?v=Kf7v187uUrA)
+    - [Full_Ver_Video](https://www.youtube.com/watch?v=pt1ZoWrdNFw)
